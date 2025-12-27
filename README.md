@@ -1,5 +1,9 @@
 # Memory Management Chatbot
 
+![C++](https://img.shields.io/badge/C++-17-blue.svg?style=flat&logo=c%2B%2B)
+![CMake](https://img.shields.io/badge/CMake-3.11+-green.svg?style=flat&logo=cmake)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg?style=flat)
+
 A C++ chatbot demonstrating modern memory management concepts including smart pointers, move semantics, and the Rule of Five.
 
 <img src="images/chatbot_demo.gif"/>
